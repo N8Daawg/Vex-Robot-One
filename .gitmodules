@@ -1,0 +1,3 @@
+[submodule "VU-API"]
+	path = VU-API
+	url = https://github.com/ValpoRoboticsTeam/VU-RobotClass
